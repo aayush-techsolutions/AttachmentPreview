@@ -1,1 +1,33 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AttachmentPreviewControl_DisplayName">
+    <value>Attachment Preview Control</value>
+  </data>
+  <data name="AttachmentPreviewControl_Description">
+    <value>Displays and manages file attachments.</value>
+  </data>
+  <data name="RecordId_DisplayName">
+    <value>Record ID</value>
+  </data>
+  <data name="RecordId_Description">
+    <value>The ID of the current record.</value>
+  </data>
+  <data name="MaxFileSize_DisplayName">
+    <value>Max File Size</value>
+  </data>
+  <data name="MaxFileSize_Description">
+    <value>The maximum size of a file (in MB).</value>
+  </data>
+  <data name="AllowedFileTypes_DisplayName">
+    <value>Allowed File Types</value>
+  </data>
+  <data name="AllowedFileTypes_Description">
+    <value>Comma-separated list of allowed file types.</value>
+  </data>
+  <data name="ShowPreview_DisplayName">
+    <value>Show Preview</value>
+  </data>
+  <data name="ShowPreview_Description">
+    <value>Enable or disable file preview.</value>
+  </data>
+</root>
